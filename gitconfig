@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = asisacppi@gmail.com
+	name = ACPPI ACPPI
